@@ -1,0 +1,10 @@
+Big Picture question:
+ Out of the states that dont have costcos what would be the best city to open up a new costco?
+
+
+Data Question:
+Out of the states that dont have a Costco, find out which county of those states would be the best county to open a new warehouse based on Costco's member demographic?
+
+From there find out what cities in those counties would be the best city to open up a new city based on Costco's member demographic?
+
+Analyze 2 new warehouse locations (Scarborogh,ME and Hendersonville, TN) population density, population growth, & retail sales to find any benchmarks or insights that we can use to even further determine what state, county, and city to put our new Costco Warehouse?
