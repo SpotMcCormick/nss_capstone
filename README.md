@@ -1,4 +1,5 @@
-# nss_capstone
+# Let's Open a Costco
+
 
  # Executive Summary.
 Costco Wholesale has 591 locations in 46 states (soon to be 47 state). As an employee I am curious of what goes into the decision to open a new location. Specifically, out of the states that do not have a Costco, where would be the best location to open a new one using their member demographics. We will also analyze census data of 2 new store locations in Hendersonville, TN & Scarborough, ME (scheduled to open in 2023) to gain any additional insights. 
