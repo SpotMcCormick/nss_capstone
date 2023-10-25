@@ -24,7 +24,8 @@ My presentation will be presented through a Tableau dashboard story. We first go
 
 # Data Sources
 Costco Breakroom
- 
+ ![img_0831_720](https://github.com/SpotMcCormick/nss_capstone/assets/132832823/f402bc5a-1ead-401b-b795-f826a98faeb6)
+
 
 ## ME
 https://www.census.gov/quickfacts/fact/table/cumberlandcountymaine/PST045222
