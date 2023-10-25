@@ -15,6 +15,9 @@ As an employee I am genuinely curious about what goes on to decide whether to op
 # Minimum Viable Product (MVP)
 My presentation will be presented through a Tableau dashboard story. We first go through the objection of the presentation. I will give context to Costco and my motivation behind the project as well as the tools I will be using. From there I will go over Costco's demographics data, then give my insights of the counties to the 2 new store locations. We will rule out the counties that dont meet up with Costco's demographics. From there we will find the best cities in those states we will conclude which city is the best to open a costco based op member demographics. 
 
+Tableau Public Link Here
+https://public.tableau.com/app/profile/jeremy.mccormick/viz/Dashboard_16982462877860/Story1?publish=yes
+
 # Schedule
 1.	Get the Data (9/23)
 2.	Clean & Explore the Data (10/10)
@@ -27,20 +30,33 @@ Costco Breakroom
  ![img_0831_720](https://github.com/SpotMcCormick/nss_capstone/assets/132832823/f402bc5a-1ead-401b-b795-f826a98faeb6)
 
 
-## ME
+## ME Counties
 https://www.census.gov/quickfacts/fact/table/cumberlandcountymaine/PST045222
+## ME Cities
+https://www.census.gov/quickfacts/fact/table/scarboroughtowncumberlandcountymaine/HSG010222
 
-## TN
+## TN Counties
 https://www.census.gov/quickfacts/fact/table/sumnercountytennessee/PST045222
+## TN Cities
+https://www.census.gov/quickfacts/hendersonvillecitytennessee
 
-## RI
+## RI Counties
 https://www.census.gov/quickfacts/washingtoncountyrhodeisland
 https://www.census.gov/quickfacts/bristoltownbristolcountyrhodeisland
 https://www.census.gov/quickfacts/fact/table/kentcountyrhodeisland/PST045222
 https://www.census.gov/quickfacts/fact/table/newportcountyrhodeisland/PST045222
 https://www.census.gov/quickfacts/providencecountyrhodeisland
-
-## WY
+https://www.census.gov/quickfacts/fact/table/richmondtownwashingtoncountyrhodeisland/PST045222
+## RI Cities
+https://www.census.gov/quickfacts/charlestowntownwashingtoncountyrhodeisland
+https://www.census.gov/quickfacts/fact/table/exetertownwashingtoncountyrhodeisland/PST045222
+https://www.census.gov/quickfacts/hopkintontownwashingtoncountyrhodeisland
+https://www.census.gov/quickfacts/fact/table/narragansetttownwashingtoncountyrhodeisland/PST045222
+https://www.census.gov/quickfacts/northkingstowntownwashingtoncountyrhodeisland
+https://www.census.gov/quickfacts/fact/table/richmondtownwashingtoncountyrhodeisland/PST045222
+https://www.census.gov/quickfacts/fact/table/southkingstowntownwashingtoncountyrhodeisland/PST045222
+https://www.census.gov/quickfacts/westerlytownwashingtoncountyrhodeisland
+## WY Counties
 https://www.census.gov/quickfacts/albanycountywyoming
 https://www.census.gov/quickfacts/bighorncountywyoming
 https://www.census.gov/quickfacts/fact/table/campbellcountywyoming/PST045222
@@ -64,6 +80,8 @@ https://www.census.gov/quickfacts/tetoncountywyoming
 https://www.census.gov/quickfacts/fact/table/uintacountywyoming/PST045222
 https://www.census.gov/quickfacts/washakiecountywyoming
 https://www.census.gov/quickfacts/westoncountywyoming
+## WY Cities
+https://www.census.gov/quickfacts/fact/table/cheyennecitywyoming/PST045222
 
 ## WV
 https://www.census.gov/quickfacts/fact/table/barbourcountywestvirginia/PST045222
@@ -119,11 +137,15 @@ https://www.census.gov/quickfacts/wirtcountywestvirginia
 https://www.census.gov/quickfacts/woodcountywestvirginia
 https://www.census.gov/quickfacts/wyomingcountywestvirginia
 https://www.census.gov/quickfacts/fact/table/monroecountywestvirginia/PST045222
+## WV Cities
+https://www.census.gov/quickfacts/martinsburgcitywestvirginia
 
-## Known Issues and Challenges
+# Known Issues and Challenges
 Explain any anticipated challenges with your project, and your plan for managing them. Be sure to include:
 ●	Census data downloads long and not wide. I need to reformat. 
 ●	Lots of hierarchies to filter though and navigate. 
-●	Creating the data model in Power BI so tables can relate. 
-●	Multiple Tables in Power BI
-●	Figure out if I can webscrape the demographic site.
+●	Creating the data model in Tableau so tables can relate. 
+●	Multiple Tables in Tableau
+
+# Conclusion 
+Bases on the analysis Sount Kingstown, RI would be the best place to open a Costco based on member demogrpahics and the insights based the Hendersonville, TN  and the Scarborough, ME locations. 
