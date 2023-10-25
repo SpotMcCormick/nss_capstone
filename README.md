@@ -1,27 +1,24 @@
 # nss_capstone
 
  # Executive Summary.
-Costco Wholesale has 591 locations in 46 states (soon to be 47 state). As an employee I am curious of what goes into the decision to open a new location. Specifically, out of the states that do not have a Costco, where would be the best location to open a new one using their member demographics. Is there any correlation from the census data we can pull from with new warehouses that are opening up?
+Costco Wholesale has 591 locations in 46 states (soon to be 47 state). As an employee I am curious of what goes into the decision to open a new location. Specifically, out of the states that do not have a Costco, where would be the best location to open a new one using their member demographics. We will also analyze census data of 2 new store locations in Hendersonville, TN & Scarborough, ME (scheduled to open in 2023) to gain any additional insights. 
 
 # Motivation
-As an employee I am genuinely curious about what goes on to decide whether to open a new Costco. This motivation came about because I currently work in a warehouse where we are the only one in the state (Ridgeland, MS). Prior to working here, I was working at Costco in Brentwood, TN. There is also a lot of buzz in the Southeast region of Costco because we are the fastest growing religion. With my experience in the company and curiosity I began to ask the question “Why aren’t there a Costco’s in these states?” Earlier this year I found out they are putting the very first Costco in Maine. My question turned into ‘why Maine?’ Every year we have a company meeting called “Perspective” where we learn the history and business side of Costco. I found out a lot of our member base demographics then I thought “Out of the states that don’t have Costco’s were would be the best place to put one based on our member demographic.” After that I knew I wanted to do my capstone one placing a new Costco where there wasn’t one. 
+As an employee I am genuinely curious about what goes on to decide whether to open a new Costco. This motivation came about because I currently work in a warehouse where we are the only one in the state (Ridgeland, MS). Prior to working here, I was working at Costco in Brentwood, TN. There is also a lot of buzz in the Southeast region of Costco because we are the fastest growing region. With my experience in the company and curiosity I began to ask the question “Why aren’t there a Costco’s in these states?” Earlier this year I found out they are putting the very first Costco in Maine. My question turned into ‘why Maine?’ Every year we have a company meeting called “Perspective” where we learn the history and business side of Costco. I found out a lot of our member base demographics then I thought if I were opening up a Costco in a state that there werent any Costco's were would I put it. 
 
 # Data Question
 
-Big Picture question:
- Out of the states that dont have costcos what would be the best city to open up a new costco?Data 
-Question:
-Out of the states that dont have a Costco, find out which county of those states would be the best county to open a new warehouse based on Costco's member demographic?From there find out what cities in those counties would be the best city to open up a new city based on Costco's member demographic?Analyze 2 new warehouse locations (Scarborogh,ME and Hendersonville, TN) population density, population growth, & retail sales to find any benchmarks or insights that we can use to even further determine what state, county, and city to put our new Costco Warehouse?
+ Out of the states that dont have Costcos what would be the best city to open up a new Costco using member demographic data and census data? (States include WV, WY, RI)
+ Analyze 2 soon to open locations and find if their are valuable insights to be gained?
+ 
 
 # Minimum Viable Product (MVP)
-
-My presentation will be on PowerPoint giving any historical background and key points I would need to present for the stakeholders to fully understand the project. I would need to switch to Power BI because I will have a dashboard that breaks it down each state and demographics. For each state we are going to find the best county that matches Costco demographics. Then we are going to do the same but for the cities in those counties. Once we find the cities in each state, we will put them head to head. I’m going to build a data model in Power BI. I would also like to make hierarchies of states, counties, and cities so that we can drill down and see if a state, county, or city lines up with Costco demographics. I will conclude with my recommendation on the final city to build a new Costco Wholesale. I am envisioning the audience being a board at Costco wholesale that asked me “Where can we put a Costco where we don’t operate.”
+My presentation will be presented through a Tableau dashboard story. We first go through the objection of the presentation. I will give context to Costco and my motivation behind the project as well as the tools I will be using. From there I will go over Costco's demographics data, then give my insights of the counties to the 2 new store locations. We will rule out the counties that dont meet up with Costco's demographics. From there we will find the best cities in those states we will conclude which city is the best to open a costco based op member demographics. 
 
 # Schedule
 1.	Get the Data (9/23)
 2.	Clean & Explore the Data (10/10)
 3.	Create Presentation of your Analysis (10/24)
--	Should be a presentation, but could include a Jupyter Notebook or dashboard in Excel, Tableau, or PowerBI
 4.	Internal demos (10/26/2023)
 
 
