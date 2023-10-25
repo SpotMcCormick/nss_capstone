@@ -2,7 +2,8 @@
 
  # Executive Summary.
 Costco Wholesale has 591 locations in 46 states (soon to be 47 state). As an employee I am curious of what goes into the decision to open a new location. Specifically, out of the states that do not have a Costco, where would be the best location to open a new one using their member demographics. Is there any correlation from the census data we can pull from with new warehouses that are opening up?
-Motivation
+
+# Motivation
 As an employee I am genuinely curious about what goes on to decide whether to open a new Costco. This motivation came about because I currently work in a warehouse where we are the only one in the state (Ridgeland, MS). Prior to working here, I was working at Costco in Brentwood, TN. There is also a lot of buzz in the Southeast region of Costco because we are the fastest growing religion. With my experience in the company and curiosity I began to ask the question “Why aren’t there a Costco’s in these states?” Earlier this year I found out they are putting the very first Costco in Maine. My question turned into ‘why Maine?’ Every year we have a company meeting called “Perspective” where we learn the history and business side of Costco. I found out a lot of our member base demographics then I thought “Out of the states that don’t have Costco’s were would be the best place to put one based on our member demographic.” After that I knew I wanted to do my capstone one placing a new Costco where there wasn’t one. 
 
 # Data Question
