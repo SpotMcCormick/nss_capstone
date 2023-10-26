@@ -151,4 +151,4 @@ Explain any anticipated challenges with your project, and your plan for managing
 ●	Multiple Tables in Tableau
 
 # Conclusion 
-Bases on the analysis Sount Kingstown, RI would be the best place to open a Costco based on member demogrpahics and the insights based the Hendersonville, TN  and the Scarborough, ME locations. 
+Bases on the analysis North Kingstown, RI would be the best place to open a Costco based on member demogrpahics and the insights based the Hendersonville, TN  and the Scarborough, ME locations. 
