@@ -12,6 +12,9 @@ As an employee I am genuinely curious about what goes on to decide whether to op
  Out of the states that dont have Costcos what would be the best city to open up a new Costco using member demographic data and census data? (States include WV, WY, RI)
  Analyze 2 soon to open locations and find if their are valuable insights to be gained?
  
+ # Technologies Used
+ Exel
+ Tableau
 
 # Minimum Viable Product (MVP)
 My presentation will be presented through a Tableau dashboard story. We first go through the objection of the presentation. I will give context to Costco and my motivation behind the project as well as the tools I will be using. From there I will go over Costco's demographics data, then give my insights of the counties to the 2 new store locations. We will rule out the counties that dont meet up with Costco's demographics. From there we will find the best cities in those states we will conclude which city is the best to open a costco based op member demographics. 
